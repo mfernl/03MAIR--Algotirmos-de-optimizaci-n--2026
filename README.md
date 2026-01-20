@@ -1,1 +1,1 @@
-# 03MAIR--Algotirmos-de-optimizaci-n--2026
+# 03MIAR--Algoritmos-de-optimizacion--2026
